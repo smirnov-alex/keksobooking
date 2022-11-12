@@ -1,7 +1,6 @@
 # Личный проект «{{projectTitle}}»
 
-* Студент: [{{userName}}]({{userProfile}}).
-* Наставник: `Неизвестно`.
+* Студент: Смирнов Александр (https://htmlacademy.ru/profile/id1448725).
 
 ---
 
